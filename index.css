@@ -1,0 +1,245 @@
+
+
+
+.first img {
+    height: 89px;
+    width: 194px;
+   margin-top: 5px;
+   margin-left: 500px;
+}
+
+.container hr{
+    color:rgba(255, 255, 255);
+    height: 2px;
+}
+  .topnav a {
+    float: left;
+    color: #000000;
+    text-align: center;
+    padding: 14px 16px;
+    text-decoration: none;
+    font-size: 17px;
+  }
+ 
+ a.split {
+    background-color: rgba(140, 198, 63);
+    color: white;
+    width: 150px;
+  }
+.hero{
+    background-color: rgba(140, 198, 63, 1);
+    color: white;
+    padding: 70px;
+}
+.hero .imgggg{
+  display: flex;
+  height: 300px;
+  width: 300px;
+  float: right;
+  
+}
+.items{
+    background-color: rgb(219, 216, 216);
+    padding-top: 30px;
+}
+.items .nav{
+margin-left: 90px;
+
+}
+.items h3{
+  margin-left: 100px;
+  font-family: Manrope;
+}
+a:hover{
+  color:rgba(140, 198, 63, 1) ;
+}
+
+ 
+.boxx{
+  display: flex;
+  justify-content: space-around;
+  align-items: center;
+  padding-bottom: 30px;
+
+}
+
+.boxx .card img{
+  width: 150px;
+  height: 150px;
+  align-items: center;
+  margin-left: 60px;
+}
+.boxx h5{
+  align-items: center;
+  color:rgba(140, 198, 63, 1) ;
+  font-family: sora;
+}
+
+.card .card-body{
+  text-align: center;
+}
+.industry{
+  padding:10%;
+}
+.industry img{
+  width: 230px;
+  height:270px ;
+  align-items: center;
+  margin-left: 70px;
+  /* border-radius: 50%;
+  border:10px solid rgba(140, 198, 63) ; */
+}
+.industry h2{
+  font-size: 43px;
+  font-family: sora;
+}
+.industry p{
+  font-family: inter;
+}
+
+.product{
+  background: 
+  rgb(222, 222, 222);
+  padding: 20px;
+}
+.imag{
+  background-image: url("img/x6acev86404a1.png");
+  background-color:rgba(140, 198, 63)  ;
+  opacity: 0.7;
+  height: 300px;
+  padding: 50px;
+  font-family: sora;
+}
+
+.search-container form button {
+  cursor: pointer;
+  width: 80px;
+  height: 20px;
+  background-color: rgba(140, 198, 63, 1) ;
+}
+.search-container  input[type=text] {
+  padding: 6px;
+  margin-top: 8px;
+  margin-left: 350px;
+  font-size: 17px;
+  border: none;
+  width: 500px;
+}
+
+.imag .dropdown{
+  margin-left: 330px;
+  opacity: 1;
+}
+.imag button{
+  margin-top: 15px;
+  border: none;
+  margin-left: 15px;
+}
+
+.imag h3{
+  text-align: center;
+}
+
+.gummmi{padding: 30px;}
+.gummmi .detlaiiii{
+ padding-top: 70px;
+}
+
+.youtube{
+background:  rgb(222, 222, 222);
+text-align: center;
+padding: 20px;
+}
+.youtube h4{
+  padding-bottom: 10px;
+}
+.review{
+  padding: 30px;
+  text-align: center;
+}
+.review-card {
+  margin-bottom: 20px;
+  padding: 10px;
+  margin-top: 20px;
+}
+.review-rating {
+  color: #ffcc00;
+}
+
+.footer {
+  background-color: #000000;
+  color: white;
+  font-size: 14px;
+  padding-bottom: 50px;
+  position: relative;
+}
+
+.footer .container {
+  position: relative;
+}
+
+
+.footer .footer-top {
+  padding-top: 50px;
+}
+
+.footer .footer-about .logo {
+  line-height: 1;
+  margin-bottom: 25px;
+}
+
+.footer .footer-about .logo img {
+  max-height: 40px;
+  margin-right: 6px;
+}
+
+
+
+.footer .footer-about p {
+  font-size: 14px;
+  font-family: var(--heading-font);
+}
+
+
+
+
+
+.footer h4 {
+  font-size: 16px;
+  font-weight: bold;
+  position: relative;
+  padding-bottom: 12px;
+}
+
+.footer .footer-links {
+  margin-bottom: 30px;
+}
+
+.footer .footer-links ul {
+  list-style: none;
+  padding: 0;
+  margin: 0;
+}
+
+.footer .footer-links ul i {
+  padding-right: 2px;
+  font-size: 12px;
+  line-height: 0;
+}
+
+.footer .footer-links ul li {
+  padding: 10px 0;
+  display: flex;
+  align-items: center;
+}
+
+.footer .footer-links ul li:first-child {
+  padding-top: 0;
+}
+
+.footer .footer-links ul a {
+  color: color-mix(in srgb, var(--default-color), transparent 30%);
+  display: inline-block;
+  line-height: 1;
+  text-decoration: none;
+}
